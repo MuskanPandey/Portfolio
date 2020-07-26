@@ -1,0 +1,32 @@
+.bg-black{
+	background-color:black;
+}
+img{
+	width:100%;
+	height:100%;
+}
+
+
+.font-div{
+	width:30%;
+}
+
+/*responsive*/
+
+@media only screen and (min-width:1198px){
+	.font-div{
+		padding:51.7px 0px!important;
+	}
+}
+
+
+.btn{
+	background-color:white;
+	weight:bold;
+}
+
+h3{
+	color:Maroon;
+	
+}
+
